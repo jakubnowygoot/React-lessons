@@ -1,0 +1,22 @@
+.box {
+    width: 100px;
+    height: 100px;
+    border-width: 1px;
+    border: solid black;
+}
+#first-div {
+    float: left;
+}
+#second-div {
+    float: right;
+}
+.clearfix {
+    clear: both;
+}
+p {
+    width: 80px;
+    border-width: 2px;
+    border-style: dotted;
+    border-color: red;
+    float: left;
+}
