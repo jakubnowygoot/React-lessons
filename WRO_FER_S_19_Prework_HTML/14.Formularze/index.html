@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Task 14-formularze</title>
+    <title>Task 14.formularze</title>
 </head>
 <body>
     <form class="contactForm">
@@ -20,6 +20,7 @@
             <<input type="submit" value="Send">
     </form>
     <form class="rentCarForm">
+        <p><b> Car rental</b></p>
         <fieldset>
             <legend>Choose car class</legend>
             <label>mini
@@ -37,10 +38,29 @@
             <label>VAN
             <input type="radio" name="car class" value="VAN">
             </label>
-
-
-
         </fieldset>
+            <fieldset>
+            <legend>Choose optional equipment</legend>
+                <label>child seat
+                    <input type="checkbox" name="child seat">
+                </label>
+                <label>GPS
+                    <input type="checkbox" name="GPS" checked>
+                </label>
+                <label>DVD player
+                    <input type="checkbox" name="DVD player">
+                </label>
+            </fieldset>
+        <label>Rental start date
+            <input type="date" placeholder="rrrr-mm-dd" name="date">
+        </label>
+        <label>Number of days
+            <input type="text" name="text">
+        </label>
+        <label>Your password
+            <input type="text" name="text">
+        </label>
+        <input type="submit" value="Order now!">
     </form>
 
 
