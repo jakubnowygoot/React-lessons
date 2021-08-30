@@ -1,0 +1,4 @@
+body {
+    background-color: blue;       <!-- Niebieskie tło się pojawiło i ma priorytet przed kolorem różowym ale nie przed niebieskim -->
+
+}
