@@ -1,21 +1,29 @@
-.first {
-    background-color: rgba(120,50,6,.4);
-}
-.second {
-    background-color: aquamarine;
-    opacity: .3;
-}
-.gradient {
-    background-image:linear-gradient(180deg, white, blue);
-    width: 100%;
-    height: 200px;
+.opacityTest{
 
 }
-.image {
-    height: 300px;
-    width: 200px;
-    background-image: url(" ../images/santa-receives-a-message-from-his-elves.jpg");
+
+.first{
+    background-color: #b2b2b2;
+    background-color: rgba(0, 0, 0, .4);   <!--uzywajac rgba tlo staje sie przezroczyste za tekstem a uzywajac opacity to wszytstko staje sie przejrzyste razem z teksetm pomimo takiej samej wartosci 0.4 rgba jest duzo ciemniejsze niz opacity -->
+}
+
+
+.second{
+    background-color: #b2b2b2;
+    opacity: .4;
+}
+
+.gradient{
+    background: -moz-linear-gradient(top,  #a9e4f7 21%, #0fb4e7 100%);
+    background: -webkit-linear-gradient(top,  #a9e4f7 21%,#0fb4e7 100%);
+    background: linear-gradient(to bottom,  #a9e4f7 21%,#0fb4e7 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a9e4f7', endColorstr='#0fb4e7',GradientType=0 );
+
+}
+
+.image{
+    background-image: url(" ../images/sugar-gumdrop-candy-and-scoop.jpg");
+    width: 100px;
+    height: 200px;
     background-position: center;
-    background-size: 300px;
-    background-repeat: no-repeat;
 }
