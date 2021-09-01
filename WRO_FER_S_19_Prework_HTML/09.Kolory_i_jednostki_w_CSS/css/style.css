@@ -1,4 +1,25 @@
-#div2{
-    background-color: red;
-    width: 200px
+.p1{
+   color: rgb(493, 22, 71)
+}
+
+.p2{
+color: hsl(300, 76%, 72%)
+}
+
+.p3{
+    color: #f4ac1a
+}
+
+.container {
+    background-color: #f4ac1a;
+    width: 200px;
+}
+.first{
+    background-color: lime;
+    width: 20%;
+}
+
+.second{
+    background-color: aqua;
+    width: 5em;
 }
