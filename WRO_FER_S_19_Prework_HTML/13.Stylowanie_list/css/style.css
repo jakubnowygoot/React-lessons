@@ -1,0 +1,20 @@
+.squareList {
+    list-style-type: square;
+}
+
+.menuList{
+   list-style-type: none;
+    text-decoration: none;
+    color: #116493;
+    overflow: hidden;
+    margin:10px;
+    width:900px;
+    font-family:Lucida;
+    text-align: center;
+
+}
+ .menulist2 {
+
+     float:left;
+
+ }
