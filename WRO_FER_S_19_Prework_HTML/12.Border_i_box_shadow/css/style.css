@@ -1,23 +1,21 @@
-.popup{
+.popup {
     width: 400px;
     height: 100px;
     background-color: beige;
-    box-shadow: 0 0 5px 5px rgba(0,0,0,0.3);
+    box-shadow: 0 0 5px 5px rgba(0, 0, 0, 0.3);
     text-align: center;
     font-size: 50px;
     font-weight: 700;
     border-radius: 20px;
+    padding: 20px;
+    margin-bottom: 50px;
 }
-.popup1{
-    position: relative;
-    top: 20px;
-}
-
 .ellipse{
     width: 180px;
     height: 100px;
     background-color: lime;
     border-radius: 70%;
+    margin-bottom: 50px;
 }
 
 .circle{
@@ -25,10 +23,12 @@
     height: 100px;
     background-color: lime;
     border-radius: 50%;
+    margin-bottom: 50px;
 }
 
 .lime{
     width: 100px;
+    margin-bottom: 50px;
     height: 100px;
     background-color: lime;
     border-radius: 0% 30% 0% 30%;  <!--Nie mam pojecia o co chodziło z tym skrotem border-radius -->
