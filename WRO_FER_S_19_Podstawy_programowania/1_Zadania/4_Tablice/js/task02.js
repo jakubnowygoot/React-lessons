@@ -1,22 +1,23 @@
+let meho = [1,4,5,7,9,10,23,44,12,41];
 
 let plot = meho[Math.floor(Math.random()*myNymbers.length)];
 console.log(plot)
 
-let meho2 = [1,4,5,7,9,10,23,44,12,41];
-
-
-for (i = 0; i < meho2.length; i++) {
-} if (meho2 % 2 == 0 ) {
-    console.log(meho2.map(v=> v+0));
-}else console.log(meho2.map(v=> v+0));
 
 
 
 
+let muse = [1,2,3,4,5,6,7,8,9,10];
+let one = []
 
-let meho2 = [1,4,5,7,9,10,23,44,12,41];
+for (i=0; i < muse.length; i++) {
+    if (i % 2 == 0){
+        one.push(muse[i])
+    }
 
-let evenNumbers = meho2.filter(function(item) {
-    return (item % 2 == 0);
-});
-console.log(evenNumbers);
+
+}
+let myk = one.map(function(num) {return num + 1} )
+
+
+console.log(muse)
