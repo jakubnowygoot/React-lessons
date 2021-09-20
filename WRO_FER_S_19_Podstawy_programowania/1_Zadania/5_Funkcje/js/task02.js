@@ -11,4 +11,4 @@ function Mynumber (num1, num2, num3) {
 
 Mynumber(20,32,14);
 
-//najwieksza liczba jest 32
+//najwieksza liczba to 32
