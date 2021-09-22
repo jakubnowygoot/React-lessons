@@ -21,3 +21,6 @@ let myk = one.map(function(num) {return num + 1} )
 
 
 console.log(myk)
+
+
+//metoda tablicowa forEach
