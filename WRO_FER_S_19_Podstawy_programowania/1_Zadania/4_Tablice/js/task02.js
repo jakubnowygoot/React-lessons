@@ -20,4 +20,4 @@ for (i=0; i < muse.length; i++) {
 let myk = one.map(function(num) {return num + 1} )
 
 
-console.log(muse)
+console.log(myk)
