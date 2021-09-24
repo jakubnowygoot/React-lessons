@@ -1,4 +1,4 @@
-/*function isPrimeNumber(n) {
+function isPrimeNumber(n) {
     if (n !== 2) {
         if (n < 2 || n % 2 === 0) {
             return false;
@@ -9,19 +9,6 @@
         }
     }return true;
 }
-console.log(isPrimeNumber(10))*/
+console.log(isPrimeNumber(9))
 
-
-let array = [];
-function isPrimeNumber(n){
-    for(let num = 0; num <= n; num++){
-        if(n%num === 0){
-            array.push(num);
-            return true
-        }else{
-            return false
-        }
-    }
-}
-let result = isPrimeNumber(9);
-console.log(array, result);
+//Wynik w konsoli to true

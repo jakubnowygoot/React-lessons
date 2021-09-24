@@ -20,7 +20,6 @@ for (i=0; i < muse.length; i++) {
 let myk = one.map(function(num) {return num + 1} )
 
 
-console.log(myk)
+console.log(one)
 
 
-//metoda tablicowa forEach
