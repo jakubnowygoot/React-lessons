@@ -1,0 +1,13 @@
+.parent{
+    width: 500px;
+    height: 100px;
+    background: hsl(201.41, 100%, 50%)
+
+}
+.children{
+    width: 50%;
+    height: 50vh;
+    background: rgb(105, 244, 0);
+}
+
+

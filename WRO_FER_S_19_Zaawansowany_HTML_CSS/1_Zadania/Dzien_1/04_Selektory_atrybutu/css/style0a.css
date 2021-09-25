@@ -1,0 +1,22 @@
+a[target*="_blank"]{
+    color:red;
+
+}
+
+img[alt*="Kot"] {
+    border: solid red;
+
+}
+img{
+    border: solid green;
+
+}
+/*
+Część  3 zadania nie ma kwadratow wiec zaznaczylem slowo kluczowe red
+
+
+
+ */
+div[class*="red"]{
+    color: red;
+}

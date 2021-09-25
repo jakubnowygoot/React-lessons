@@ -1,0 +1,45 @@
+@font-face {
+    font-family: "hej";
+    src: local("hej"),
+    url("../fonts/webfontkit/lato-regular-webfont.woff2") format("woff2");
+    url("../fonts/webfontkit/lato-regular-webfont.woff") format("woff");
+}
+
+body {
+    font-family: "hej", cursive;
+}
+
+@font-face {
+    font-family: "myFont";
+    src: local("myFont"),
+    url("../fonts/webfontkit-20210924-134319/pacifico-regular-webfont.woff2") format("woff2");
+    url("../fonts/webfontkit-20210924-134319/pacifico-regular-webfont.woff") format("woff");
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "myFont", cursive;
+    color:orangered;
+
+}
+
+
+
+
+@font-face {
+    font-family: "myFont3";
+    src: local("myFont3"),
+    url("../fonts/webfontkit-20210924-134958/dmseriftext-regular-webfont.woff2") format("woff2");
+    url("../fonts/webfontkit-20210924-134958/dmseriftext-regular-webfont.woff2") format("woff2");
+}
+
+.section--bottom{
+    font-family: myFont3 , cursive;
+    background-color: gainsboro;
+    padding: 15px;
+
+}
+
+
+/*Mysle ze wyglada tak samo jak w poleceniu ale nie moglem znalezc paru rzeczy takich jak zakladka Customize , Latin extended
+kolejna to Embed
+ */

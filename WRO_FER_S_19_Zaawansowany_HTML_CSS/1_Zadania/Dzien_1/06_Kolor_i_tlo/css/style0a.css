@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    background-image:  url(../images/bg.jpg);
+    background-size: cover;
+}
+
+.banner__text{
+    font-size: 70px;
+    color:white;
+    font-family: Georgia;
+    text-shadow: 0 0 30px;
+    color: rgba(36,134,115,0.7);
+    margin-bottom: 0;
+    padding-bottom: calc(50vh - 40px);
+
+}
+
+.text{
+    background: linear-gradient(90deg, rgba(22,150,120,1) 16%, rgba(27,165,133,1) 27%, rgba(39,198,162,1) 57%););
+    padding: 100px;
+    font-family: Georgia;
+    color:white;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}

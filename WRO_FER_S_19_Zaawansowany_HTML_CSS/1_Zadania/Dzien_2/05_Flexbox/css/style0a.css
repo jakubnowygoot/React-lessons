@@ -1,0 +1,37 @@
+.boyy{
+    display:flex;
+    width: 400px;
+    height: 150px;
+    border:5px solid black;
+    border-radius: 10px;
+
+}
+
+.wiadomosc{
+    align-self: flex-end;
+    font-size: 12px;
+    float: right;
+    white-space:nowrap;
+    margin: 10px;
+    position: center;
+    border:1px solid rgba(0, 0, 0,0.25);
+    border-radius: 5px;
+    padding: 3px 10px 3px 10px ;
+
+}
+
+img{
+    display: flex;
+
+
+}
+.przycisk{
+    width: 50%;
+
+}
+
+
+.main-box{
+    border:1px solid black;
+
+}

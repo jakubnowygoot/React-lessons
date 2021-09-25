@@ -1,0 +1,22 @@
+li{
+    color:white;
+
+}
+
+
+li[data-status*="bad"]{
+    background:#a80e10 ;
+}
+
+li[data-status*="medium"]{
+    background:#f87641 ;
+}
+
+li[data-status*="good"]{
+    background:#7ec932 ;
+}
+
+li[data-status*="ultra"]{
+    background:#FFC107 ;
+}
+

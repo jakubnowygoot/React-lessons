@@ -1,0 +1,1134 @@
+.cnt{
+    box-sizing: border-box;
+}
+
+
+
+div div:first-child strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+
+div div:first-child span{
+    width: 40px;
+    height: 40px;
+    background:white;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:first-child span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: white;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:first-child span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:first-child span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:first-child span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:first-child span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:first-child span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:first-child span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:first-child strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+/*  Kolumna 2 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div div:nth-child(2) strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:nth-child(2) span{
+    width: 40px;
+    height: 40px;
+    background:yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(2) span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(2) span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(2) span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(2) span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(2) span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(2) span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(2) span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(2) strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* Kolumna 3 */
+
+
+
+
+
+
+div div:nth-child(3) strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:nth-child(3) span{
+    width: 40px;
+    height: 40px;
+    background:black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(3) span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(3) span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(3) span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(3) span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(3) span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(3) span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(3) span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(3) strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+
+
+/* Kolumna 4 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div div:nth-child(4) strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:nth-child(4) span{
+    width: 40px;
+    height: 40px;
+    background:black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(4) span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(4) span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(4) span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(4) span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(4) span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(4) span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(4) span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(4) strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+/* Kolumna 5 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div div:nth-child(5) strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:nth-child(5) span{
+    width: 40px;
+    height: 40px;
+    background:yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(5) span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(5) span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(5) span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(5) span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(5) span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(5) span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(5) span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(5) strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+/* Kolumna 6 */
+
+
+
+
+
+
+
+
+
+div div:nth-child(6) strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:nth-child(6) span{
+    width: 40px;
+    height: 40px;
+    background:black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(6) strong:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: white;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(6) strong:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(6) strong:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(6) strong:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(6) strong:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(6) strong:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(6) span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    background: white;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(6) span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: white;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(6) strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* Kolumna 7 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div div:nth-child(7) strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:nth-child(7) span{
+    width: 40px;
+    height: 40px;
+    background:black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(7) span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(7) span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(7) span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(7) span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(7) span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(7) span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(7) span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(7) strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+/* Kolumna 8 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div div:nth-child(8) strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:nth-child(8) span{
+    width: 40px;
+    height: 40px;
+    background:yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(8) span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(8) span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(8) span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(8) span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(8) span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(8) span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(8) span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: black;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(8) strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+/* Kolumna 9 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div div:nth-child(9) strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:nth-child(9) span{
+    width: 40px;
+    height: 40px;
+    background:yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(9) span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(9) span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(9) span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(9) span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(9) span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+div div:nth-child(9) span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: black;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(9) span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:nth-child(9) strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+/* Kolumna 10 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div div:last-child strong:first-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    clear:left;
+    display: inline-flex;
+}
+
+
+div div:last-child span{
+    width: 40px;
+    height: 40px;
+    background:white;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:last-child span:nth-child(2){
+    width: 40px;
+    height: 40px;
+    background: white;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:last-child span:nth-child(3){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:last-child span:nth-child(4){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:last-child span:nth-child(5){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:last-child span:nth-child(6){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+div div:last-child span:nth-child(7){
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: yellow;
+    float:left;
+    display: inline-flex;
+}
+
+div div:last-child span:nth-child(8){
+    width: 40px;
+    height: 40px;
+    background: yellow;
+    border: 1px solid lightgrey;
+    float:left;
+    display: inline-flex;
+}
+
+div div:last-child strong:last-child{
+    width: 40px;
+    height: 40px;
+    border: 1px solid lightgrey;
+    background: white;
+    float:left;
+    display: inline-flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

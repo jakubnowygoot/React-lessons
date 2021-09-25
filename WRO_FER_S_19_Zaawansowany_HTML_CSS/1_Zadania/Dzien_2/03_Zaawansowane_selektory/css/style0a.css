@@ -1,0 +1,18 @@
+.menu{
+    border-radius: 30px;
+    background: orangered;
+    width: 620px;
+    height: 44px;
+    color: #FFFFFF;
+    list-style-type: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+li{
+    float:left;
+    line-height: 45px;
+    padding-left: 40px;
+
+}
