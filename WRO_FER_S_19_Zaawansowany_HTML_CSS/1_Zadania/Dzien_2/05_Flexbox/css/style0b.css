@@ -1,20 +1,24 @@
-.mega{
+.menuBar{
+    border:1px solid;
+    background: purple;
     display: flex;
-    border: 2px solid;
+    color: white;
 
-    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    height: 100px;
+    justify-content: flex-start;
+}
+.logo{
+    border:3px solid ;
+    margin: 10px;
+    background: grey;
+    align-self: center;
+
 }
 
-
-.box1{
-    border: 2px solid;
-
-}
-
-
-.mega2{
+.pogo{
     display: flex;
-    border: 2px solid;
-    justify-content: space-between;
-    flex-direction: column;
+   flex-grow: 4;
+
 }
