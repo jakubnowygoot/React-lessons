@@ -1,0 +1,98 @@
+div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 700px;
+    height: 300px;
+    justify-content: center;
+}
+
+.circle1{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    background-image: radial-gradient(circle at 50% 120.71%, #d0ca65 0, #d8c35c 7.14%, #deba54 14.29%, #e4b04c 21.43%, #e9a446 28.57%, #ed9741 35.71%, #f0893e 42.86%, #f2793c 50%, #f3683d 57.14%, #f35642 64.29%, #f34248 71.43%, #f22c51 78.57%, #f00a5c 85.71%, #ed0068 92.86%, #e70075 100%);
+}
+.circle2{
+    height: 150px;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 50%;
+    display: flex;
+    padding: 0;
+    margin-bottom: 15px;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    background-image: radial-gradient(circle at 50% 120.71%, #d0ca65 0, #d8c35c 7.14%, #deba54 14.29%, #e4b04c 21.43%, #e9a446 28.57%, #ed9741 35.71%, #f0893e 42.86%, #f2793c 50%, #f3683d 57.14%, #f35642 64.29%, #f34248 71.43%, #f22c51 78.57%, #f00a5c 85.71%, #ed0068 92.86%, #e70075 100%);
+}
+.circle3{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    background-image: radial-gradient(circle at 50% 120.71%, #d0ca65 0, #d8c35c 7.14%, #deba54 14.29%, #e4b04c 21.43%, #e9a446 28.57%, #ed9741 35.71%, #f0893e 42.86%, #f2793c 50%, #f3683d 57.14%, #f35642 64.29%, #f34248 71.43%, #f22c51 78.57%, #f00a5c 85.71%, #ed0068 92.86%, #e70075 100%);
+}
+.circle4{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    border-radius: 50%;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    background-image: radial-gradient(circle at 50% 120.71%, #d0ca65 0, #d8c35c 7.14%, #deba54 14.29%, #e4b04c 21.43%, #e9a446 28.57%, #ed9741 35.71%, #f0893e 42.86%, #f2793c 50%, #f3683d 57.14%, #f35642 64.29%, #f34248 71.43%, #f22c51 78.57%, #f00a5c 85.71%, #ed0068 92.86%, #e70075 100%);
+}
+.circle5{
+    height: 150px;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 50%;
+    display: flex;
+    padding: 0;
+    margin-top:0;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    background-image: radial-gradient(circle at 50% 120.71%, #d0ca65 0, #d8c35c 7.14%, #deba54 14.29%, #e4b04c 21.43%, #e9a446 28.57%, #ed9741 35.71%, #f0893e 42.86%, #f2793c 50%, #f3683d 57.14%, #f35642 64.29%, #f34248 71.43%, #f22c51 78.57%, #f00a5c 85.71%, #ed0068 92.86%, #e70075 100%);
+}
+.circle6{
+    height: 150px;
+    width: 150px;
+    margin-right: 10px;
+    border-radius: 50%;
+    margin-top:0;
+    display: flex;
+    padding: 0;
+    align-items: center;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    justify-content: center;
+    background-image: radial-gradient(circle at 50% 120.71%, #d0ca65 0, #d8c35c 7.14%, #deba54 14.29%, #e4b04c 21.43%, #e9a446 28.57%, #ed9741 35.71%, #f0893e 42.86%, #f2793c 50%, #f3683d 57.14%, #f35642 64.29%, #f34248 71.43%, #f22c51 78.57%, #f00a5c 85.71%, #ed0068 92.86%, #e70075 100%);
+}

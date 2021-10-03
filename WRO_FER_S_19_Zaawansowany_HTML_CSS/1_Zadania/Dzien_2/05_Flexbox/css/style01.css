@@ -1,0 +1,36 @@
+.Box{
+    display: flex;
+    background: #E53C3D;
+    width: 500px;
+    height: 50px;
+    justify-content: space-between ;
+    color: #492F41;
+}
+
+.Menu{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.Kontakt{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.Omnie{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.Blog{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.Logo{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 6px;
+    padding-left: 20px;
+}
