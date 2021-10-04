@@ -1,5 +1,5 @@
 *{
-
+margin: 0;
 }
 
 
@@ -23,25 +23,29 @@ img{
 .box-content{
     display: flex;
     flex-direction:column;
+}
+
+.Button{
+
+    border:1px solid rgba(0, 0, 0,0.25);
+    width: 120px;
+    height: 20px;
+    border-radius: 5px;
+    font-size: 12px;
+    margin-left: 160px;
+    text-align: center;
+    line-height: 20px;
+}
+
+.First-Title{
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 20px;
 
 }
 
-.wiadomosc{
-
-    border:1px solid rgba(0, 0, 0,0.25);
-    border-radius: 5px;
-    font-size: 12px;
-    align-items:flex-end;
+.Text{
+    margin-bottom: 10px;
+    margin-left: 20px;
 }
-
-/*    display: flex;
-    justify-content: flex-end;
-    align-items:flex-end;
-    font-size: 12px;
-    float: right;
-    white-space:nowrap;
-    margin: 10px;
-    position: center;
-    border:1px solid rgba(0, 0, 0,0.25);
-    border-radius: 5px;
-    padding: 3px 10px 3px 10px ;
