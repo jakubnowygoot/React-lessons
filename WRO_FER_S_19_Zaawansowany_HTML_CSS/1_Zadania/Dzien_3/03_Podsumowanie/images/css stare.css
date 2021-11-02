@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.Black-wall{
+    background: black;
+    opacity: 0.3;
+    width: 100%;
+    height: 800px;
+    position: relative;
+}
+.Car-banner{
+    position: absolute;
+}
+.logoo{
+    display: flex;
+}
+
+
+.Menu-bar{
+    width: 100%;
+    height: 80px;
+    position: relative;
+    top: -800px;
+    background: rgba(0, 0, 0, 0.3);
+    border-bottom: rgba(164, 164, 164, 0.3) solid 1px ;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    list-style-type: none;
+}
+
+.Page-logo{
+    width: 180px;
+    height: 30px;
+    justify-content: flex-start;
+}
+.Bar{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.First-bar{
+    color: white;
+    background: rgba(90, 95, 100, 0.6);
+    width: 200px;
+    height: 100%;
+    text-align: center;
+    line-height:80px;
+}
+
+.Second-bar{
+    color: white;
+}
+.Third-bar{
+    color: white;
+}
+.Fourth-bar{
+    color: white;
+}
+
+
+.Car-Sharing{
+    position: absolute;
+    color: white;
+    font-size: 90px;
+    text-align: center;
+    width: 1096px;
+    top:40%;
+    right: 170px;
+    font-weight: bold;
+}
+
+.Midlle{
+    text-align: center;
+    position: absolute;
+    color: darkgrey;
+    top:57%;
+    width: 900px;
+    right: 250px;
+
+}
+
+.Buttons{
+    position: absolute;
+    text-align: center;
+    line-height: 3.8;
+    color: white;
+    font-size: 12px;
+    background: red;
+    width: 170px;
+    height: 45px;
+    border-radius: 50px;
+    top:70%;
+    right: 740px;
+}
+
+.Second-button{
+    position: absolute;
+    text-align: center;
+    line-height: 3.8;
+    color: red;
+    font-size: 12px;
+    font-weight: bold;
+    background: white;
+    width: 170px;
+    height: 45px;
+    border-radius: 50px;
+    top:70%;
+    right: 540px;
+}
+.square{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: -199px;
+    right: -690px;
+    transform: rotate(45deg);
+    background: red;
+    z-index: 1;
+}
+
+.arrow{
+    position:relative;
+    top: -160px;
+    right: -706.2px;
+    z-index: 3;
+}
+
+.Bigger-square{
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: -116px;
+    right: -680px;
+    transform: rotate(45deg);
+    background: red;
+    opacity: 0.1;
+    z-index: 0;
+}
