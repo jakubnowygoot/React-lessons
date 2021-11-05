@@ -1,0 +1,38 @@
+*{
+    @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap');
+    margin: 0;
+    padding: 0;
+}
+
+.banner{
+    position: relative;
+    background-image: url("../images/car-background.jpg");
+    width: 900px;
+    height: 600px;
+    background-size: cover;
+}
+
+
+.banner::before{
+    background: #111;
+    opacity: 0.5;
+    position: absolute;
+    width: 900px;
+    height: 600px;
+}
+
+.banner__text{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    color: white;
+    gap: 30px;
+}
+
+span{
+    color: orangered;
+}
