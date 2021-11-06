@@ -10,16 +10,22 @@
     width: 900px;
     height: 600px;
     background-size: cover;
+    z-index: 1;
 }
 
 
 .banner::before{
+    content: "";
     background: #111;
     opacity: 0.5;
     position: absolute;
     width: 900px;
     height: 600px;
+    z-index: -1;
+
 }
+
+
 
 .banner__text{
     height: 600px;
@@ -31,6 +37,7 @@
     font-weight: 600;
     color: white;
     gap: 30px;
+    z-index: 3;
 }
 
 span{

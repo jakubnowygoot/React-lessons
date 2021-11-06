@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.gallery{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding:100px;
+    align-content: stretch;
+}
+
+
+.gallery__box{
+    display: flex;
+    width: 250px;
+    height: 200px;
+    background: orangered;
+    border-radius: 10px;
+    font-size: 20px;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    list-style: none;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+
+.gallery a:nth-child(2){
+    background: gold;
+}
+
+
+.gallery a:nth-child(3){
+    background: blueviolet;
+}
+
+
+.gallery a:nth-child(4){
+    background: mediumspringgreen;
+}
+
+
+.gallery a:nth-child(5){
+    background: dodgerblue;
+}
+
+
+.gallery a:nth-child(6){
+    background: lawngreen;
+}
+
+
+
+.gallery a:nth-child(7){
+    background: coral;
+}
+
+
+.gallery a:last-child{
+    background: darkgrey;
+}
