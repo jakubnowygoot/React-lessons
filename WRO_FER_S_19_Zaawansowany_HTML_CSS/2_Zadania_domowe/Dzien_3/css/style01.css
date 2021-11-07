@@ -4,3 +4,59 @@
     @import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&display=swap');
     font-family: 'Bungee Inline', cursive;
 }
+
+
+.container2{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header{
+    width: 100%;
+    height: 700px;
+    background-image: url("../images/concert.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.Breath {
+    text-align: center;
+    line-height: 700px;
+    font-weight: 700;
+    font-size: 50px;
+    color: #FFFFFF;
+}
+
+
+section{
+    width: 100%;
+    background-color: white;
+
+}
+
+
+.Lorem-text-middle{
+    padding-bottom: 100px;
+    padding-top: 100px;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 26px;
+    display: block;
+}
+
+
+
+footer{
+    width: 100%;
+    height: 200px;
+    background-color: #000000;
+    text-align: center;
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 200px;
+    padding-left: 200px;
+
+
+}
