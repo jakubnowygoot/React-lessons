@@ -10,15 +10,24 @@
 <div class="Menu-bar-with">
 
     <div>
-        <a class="Logo">BestShop</a>
+        <button class="Logo">BestShop</button>
     </div>
 
-    <ul class="Menu-bar1">
-        <li>WHY US</li>
-        <li>BENEFITS</li>
-        <li>PRICES</li>
-        <li>CONTACT</li>
-    </ul>
+    <section class="top-nav">
+
+        <input id="menu-toggle" type="checkbox" />
+        <label class='menu-button-container' for="menu-toggle">
+            <a class='menu-button'></a>
+        </label>
+        <ul class="menu">
+            <li class="Width-text">WHY US</li>
+            <li class="Width-text">BENEFITS</li>
+            <li class="Width-text">PRICES</li>
+            <li class="Width-text">CONTACT</li>
+        </ul>
+
+    </section>
+
 
 </div>
 
@@ -28,18 +37,25 @@
      <div class="Inside">
          <h1>Sell More! </h1>
          <h2 class="text-middle">Open shop on our platform and increase your sales</h2>
-         <h2 class="text-last">Open your shop</h2>
+        <button class="button-h2"> <h2 class="text-last">Open your shop</h2> </button>
 
 
      </div>
 
 </div>
 
-<div class="Photo-box">
 
-    <div class="Background-laptop"></div>
 
-</div>
+
+    <div class="Photo-box">
+
+        <div class="Background-laptop"></div>
+
+    </div>
+
+
+
+
 
 
 
@@ -154,6 +170,7 @@
 
       <div class="First-box">
 
+
           <div class="Basic">Basic</div>
           <div class="money">$0</div>
           <div class="Menu-in-box">
@@ -163,7 +180,7 @@
               <div><img src="assets/Close.svg">Two years license</div>
               <div><img src="assets/Close.svg">Full support</div>
           </div>
-          <div class="Button-red">Begin</div>
+          <button class="Button-red">Begin</button>
 
       </div>
 
@@ -180,7 +197,7 @@
               <div><img src="assets/Ckechmark-1.svg">Two years license</div>
               <div><img src="assets/Close.svg">Full support</div>
           </div>
-          <div class="Blue-button">Begin</div>
+          <button class="Blue-button">Begin</button>
 
 
 
@@ -199,7 +216,7 @@
               <div><img src="assets/Ckechmark-1.svg">Two years license</div>
               <div><img src="assets/Ckechmark-1.svg">Full support</div>
           </div>
-          <div class="Green-button">Begin</div>
+          <button class="Green-button">Begin</button>
 
       </div>
 
@@ -228,10 +245,16 @@
 
         <div class="text-question"><h1> Any questions?</h1><br> Leave your email address or call us!</div>
         <div class="info-block">
-            <div class="Mail"></div>
-            <div>info@bestshop.xyz</div>
-            <div class="Phone"></div>
-            <div>123 456 789 </div>
+            <div class="box-with-mail">
+                <div class="Mail"></div>
+                <div>info@bestshop.xyz</div>
+            </div>
+
+            <div class="box-with-mail">
+                <div class="Phone"></div>
+                <div>123 456 789 </div>
+
+            </div>
 
 
         </div>
@@ -245,8 +268,11 @@
 
         </div>
 
-        <div class="text-with-checkmark"><div class="Check-mark"> </div> I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the European Parliament’s and Council of the European Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (Data Protection Directive)</div>
-        <div class="button-send">Send</div>
+        <label class="text-with-checkmark">
+            <input type="checkbox" name="checkbox"/>I hereby give consent for my personal data included in my application to be processed for the purposes of the recruitment process under the European Parliament’s and Council of the European Union Regulation on the Protection of Natural Persons as of 27 April 2016, with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (Data Protection Directive)
+        </label>
+
+   <button class="button-send">Send</button>
     </div>
 
 
@@ -261,7 +287,7 @@
 
    <div>
 
-         <a class="Logo">BestShop</a>
+         <a class="Logo-2">BestShop</a>
 
    </div>
 
@@ -269,23 +295,12 @@
 
     <div class="Twitter-fb">
 
-       <button><img src="assets/Twitter.svg"></button>
-       <button><img src="assets/Facebook.svg"></button>
+       <a href="https://twitter.com/?lang=pl" ><img src="assets/Twitter.svg"></a>
+       <a href="https://pl-pl.facebook.com/" ><img src="assets/Facebook.svg"></a>
 
     </div>
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
