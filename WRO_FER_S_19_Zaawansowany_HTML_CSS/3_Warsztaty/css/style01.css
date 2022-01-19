@@ -10,7 +10,7 @@
     width: 100%;
     height: 80px;
     background-color: white;
-    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2 );
+    box-shadow: 0 3px 10px rgba(0 0 0 / 0.2 );
     align-items: center;
     justify-content: space-between;
 
@@ -640,6 +640,15 @@ h1{
 
 }
 
+
+.container4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
 .Basic{
     font: normal normal bold 16px/1px sans-serif;
     margin-bottom: 300px;
@@ -1171,7 +1180,6 @@ input{
         width: 350px;
         height: 120px;
         text-align: center;
-        margin-left: 80px;
         padding: 0;
         font-size: 40px;
 
@@ -1559,6 +1567,8 @@ input{
         flex-direction: column;
         gap: 0;
         padding-top: 0;
+        width: 80%;
+
     }
 
 
@@ -1584,6 +1594,8 @@ input{
 
     .second-box{
         height: 250px;
+        width: 100%;
+
 
     }
 
@@ -1683,17 +1695,6 @@ input{
         font-size: 52px;
         margin-top: 47px;
     }
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1874,6 +1875,734 @@ input{
 
 
 
+
+
+@media (max-width: 900px) {
+
+    .Inside-page-3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0px;
+        gap:40px;
+        margin-top: 200px;
+    }
+
+    .Background-laptop{
+        width: 100%;
+        -webkit-transform: scale(1.8);
+        margin-bottom: 50px;
+    }
+
+    .Daily{
+        font-size: 16px;
+
+    }
+    .Daily-2{
+        font-size: 16px;
+        width: 100px;
+    }
+    .Daily-3{
+        font-size: 16px;
+        width: 100px;
+    }
+
+
+    .Sales-text{
+        width: 350px;
+        height: 120px;
+        text-align: center;
+        padding: 0;
+        font-size: 40px;
+        margin-top: 20px;
+
+    }
+
+    .Catalot-photo{
+        margin-left: 110px;
+        height: 57px;
+        width: 63px;
+
+    }
+
+
+    .Box-3{
+        width: 124px;
+    }
+
+
+    .Circle-3{
+        width: 75px;
+        height: 75px;
+        margin-left: 45px;
+    }
+
+    .Views-3{
+        font-size: 22px;
+        margin-top: 10px;
+    }
+
+
+
+    .Catalot-photo{
+        margin-left: 110px;
+        height: 57px;
+        width: 63px;
+
+    }
+
+
+    .Box-3{
+        width: 124px;
+    }
+
+
+    .Circle-3{
+        width: 75px;
+        height: 75px;
+        margin-left: 45px;
+    }
+
+    .Views-3{
+        font-size: 22px;
+        margin-top: 10px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .Eye-photo{
+        margin-left: 110px;
+        height: 39px;
+        width: 82px;
+
+    }
+
+
+    .Box-2{
+        width: 124px;
+    }
+
+
+    .Circle-2{
+        width: 75px;
+        height: 75px;
+        margin-left: 45px;
+    }
+
+    .Views-2{
+        font-size: 22px;
+        margin-top: 10px;
+    }
+
+
+
+
+
+
+
+    .Person-photo{
+        margin-left: 80px;
+        height: 63px;
+        width: 51px;
+
+    }
+
+
+    .Box{
+        width: 124px;
+    }
+
+
+    .Circle{
+        width: 75px;
+        height: 75px;
+        margin-left: 25px;
+    }
+
+    .Views{
+        font-size: 22px;
+        margin-top: 10px;
+    }
+
+
+
+
+
+
+    .Page-color{
+        height: 1820px;
+    }
+
+
+
+
+    .Thrid-box{
+        width: 400px;
+        height: 360px;
+        font-size: 25px;
+        border-radius: 30px;
+        margin-top: 40px;
+
+    }
+
+    .Menu-in-box-3{
+        margin-left: 133px;
+        margin-bottom: 138px;
+        text-align: left;
+        font-size: 25px;
+
+    }
+
+
+    .Basic-3{
+        margin-right: 239px;
+        margin-top: 204px;
+        font-size: 26px;
+    }
+
+
+
+    .money-3{
+        margin-right: 240px;
+        margin-top: 217px;
+        font-size: 60px;
+
+    }
+
+    .Menu-in-box-3 img{
+        height: 16px;
+    }
+
+
+
+
+
+
+    .Green-button{
+        margin-bottom: 40px;
+        height: 53px;
+        width: 159px;
+        font-size: 17px;
+    }
+
+
+
+    .Limited{
+        margin-right: 231px;
+        margin-top: 261px;
+        font-size: 17px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .container3{
+        margin-top: 350px;
+    }
+
+
+    .Logo{
+        font-size: 38px;
+        margin-left: 20px;
+    }
+
+    .text-middle{
+        width: 250px;
+        text-align: center;
+    }
+
+    .text-last{
+        width: 270px;
+
+    }
+
+
+    .menu-button-container {
+        display: flex;
+    }
+    .menu {
+        position: absolute;
+        top: 0;
+        margin-top: 50px;
+        left: 0;
+        gap:0;
+        flex-direction: column;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+    #menu-toggle ~ .menu li {
+        height: 0;
+        margin: 0;
+        padding: 0;
+        border: 0;
+        color: white;
+
+    }
+    #menu-toggle:checked ~ .menu li {
+        height: 2.5em;
+        padding-left: 60px;
+        justify-content: left;
+        font-size: 15px;
+        color: #A5A5A5;
+
+    }
+    #menu-toggle:checked ~ .menu li:hover {
+
+        color: black;
+
+    }
+
+    #menu-toggle:checked ~ .menu li:last-child {
+
+        box-shadow: 0 5px 6px #00000029;
+        padding-bottom: 20px;
+
+    }
+    #menu-toggle:checked ~ .menu li:first-child {
+
+        margin-top: 40px;
+        padding-top: 20px;
+
+    }
+    .menu > li {
+        display: flex;
+        justify-content: center;
+        margin: 0;
+        padding: 0.5em 0;
+        width: 100%;
+        color: #A5A5A5;
+        background-color: white;
+    }
+    .menu > li:not(:last-child) {
+        border-bottom: 1px solid #444;
+    }
+
+
+
+    .White-box{
+        width: 80%;
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+        justify-content: center;
+
+
+    }
+
+    .White-box-2{
+        width: 80%;
+        height: 500px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+        justify-content: center;
+
+
+    }
+
+
+    .White-box-2 img{
+        margin-left: 160px;
+        padding-top: 0px;
+        margin-bottom: 40px;
+        width: 240px;
+        height: 150px;
+    }
+
+    .Circle-blue{
+        width: 180px;
+        height: 180px;
+        margin-right: 32px;
+        margin-bottom: 277px;
+    }
+
+    .Text-middle-2 h1{
+        font-size: 40px;
+        width: 320px;
+        margin-bottom: 31px;
+
+    }
+    .Text-middle-2{
+        font-size: 20px;
+        width: 370px;
+        margin-left: 20px;
+    }
+
+    .Blue-line{
+        display: none;
+    }
+
+
+
+
+    .Red-line{
+        display: none;
+    }
+
+
+    .maccbook{
+        display: flex;
+        align-self: center;
+        padding-bottom: 46px;
+        width: 250px;
+        height: 150px;
+
+    }
+
+
+
+    .Text-middle{
+        width: 370px;
+        font-size: 20px;
+        float: left;
+        margin-left: 20px;
+    }
+
+    .Text-middle h1{
+        font-size: 40px;
+        margin-bottom: 70px;
+    }
+
+    .square2{
+        margin: -147px 534px 175px 671px;
+        width: 130px;
+        height: 130px;
+
+
+    }
+
+
+    .White-box-3-4{
+        flex-direction: column;
+        gap: 0;
+        padding-top: 0;
+        width: 80%;
+
+    }
+
+
+
+    .first-box{
+        width: 100%;
+        height: 360px;
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+
+
+    .Trumpet{
+        width: 370px;
+        height: 310px;
+        margin-top: 113px;
+        margin-right: 40px;
+    }
+
+    .second-box{
+        height: 250px;
+        width: 100%;
+
+
+    }
+
+
+
+    .text-inside{
+        font-size: 20px;
+        padding-bottom: 0px;
+        width: 311px;
+
+    }
+
+
+    .text-inside h1 {
+        font-size: 40px;
+        padding-top: 0;
+        width: 308px;
+
+    }
+
+    .Green-line{
+        display: none;
+    }
+
+
+
+
+    .Twitter-fb{
+        margin-right: 41px;
+
+    }
+
+
+    .Text-banner{
+        flex-direction: column;
+    }
+
+
+    .Background-white{
+        height: 1414px;
+    }
+
+
+
+
+
+    .First-box{
+        width: 400px;
+        height: 360px;
+        font-size: 25px;
+        border-radius: 30px;
+    }
+
+    .Menu-in-box{
+        margin-left: 133px;
+        margin-bottom: 138px;
+        text-align: left;
+        font-size: 25px;
+
+    }
+
+
+    .Basic{
+        margin-right: 239px;
+        margin-top: 204px;
+        font-size: 26px;
+    }
+
+
+
+    .money{
+        margin-right: 240px;
+        margin-top: 217px;
+        font-size: 60px;
+
+    }
+
+    .Menu-in-box img{
+        height: 16px;
+    }
+
+
+
+
+
+
+    .Button-red{
+        margin-bottom: 40px;
+        height: 53px;
+        width: 159px;
+        font-size: 17px;
+    }
+
+
+
+    .text-pricing{
+        font-size: 52px;
+        margin-top: 47px;
+    }
+
+
+
+
+
+
+    .Second-box{
+        height: 360px;
+        width: 448px;
+        font-size: 25px;
+        margin-top: 40px;
+        border-radius: 30px;
+    }
+
+
+
+
+
+    .Menu-in-box-2{
+        margin-left: 189px;
+        margin-bottom: 138px;
+        text-align: left;
+        font-size: 25px;
+
+    }
+
+
+
+
+
+    .money-2{
+        margin-right: 240px;
+        margin-top: 273px;
+        font-size: 60px;
+
+    }
+
+
+
+
+    .Basic-2{
+        margin-right: 239px;
+        margin-top: 265px;
+        font-size: 26px;
+    }
+
+
+    .Blue-button{
+        margin-bottom: 80px;
+        height: 53px;
+        width: 159px;
+        font-size: 17px;
+    }
+
+
+
+    .Limited-2{
+        margin-right: 231px;
+        margin-top: 312px;
+        font-size: 17px;
+    }
+
+    .Menu-in-box-2 img{
+        height: 16px;
+    }
+
+
+    .Last-page{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 50px;
+        margin-left: 20px;
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+    .Bottom-banner{
+        margin-top: 177px;
+    }
+
+
+
+    .Name-email{
+        margin-top: 50px;
+
+    }
+
+
+    .info-block div:last-child{
+        line-height: 26px;
+    }
+
+    .Phone{
+        margin-right: 10px;
+        text-align: center;
+        margin-left: 0px;
+
+    }
+
+
+
+    .info-block{
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+    }
+
+    .text-with-checkmark{
+        width: 385px;
+        gap: 10px;
+        font-size: 14px;
+
+    }
+
+
+
+
+    .button-send{
+        width: 254px;
+        height: 60px;
+        font-size: 17px;
+        margin-left: 149px;
+        margin-top: 43px;
+    }
+
+
+
+
+
+    .line-Email{
+        width: 90%;
+
+    }
+
+
+    .line-name{
+        width: 90%;
+
+    }
+
+
+
+
+    .Logo-2{
+        justify-content: flex-start;
+        margin-left: 34px;
+        font-size: 28px;
+        color: #08A6E4;
+        opacity: 0.7;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 100;
+        cursor: pointer;
+        border: none;
+        background: none;
+
+    }
+
+
+    .First-box-photo{
+        margin-right: 40px;
+    }
+
+
+}
 
 
 
