@@ -606,6 +606,7 @@ h1{
     width: 100%;
     background: white;
 
+
 }
 .text-pricing{
     text-align: center;
@@ -883,6 +884,8 @@ h1{
     display: flex;
     justify-content: center;
     align-self: center;
+    margin-left: 40px;
+
 }
 
 
