@@ -28,35 +28,35 @@
             <div class='panel-body'>
                 <form>
                     <div class="checkbox">
-                        <label><input type="checkbox">Wszystkie dodatki</label>
+                        <label><input type="checkbox" id="checkAll" onclick=toggle(this)>Wszystkie dodatki</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" data-price="3.50">Dodatkowy ser, 3,50 zł</label>
+                        <label><input type="checkbox" data-price="3.50" name="add"  onclick=totalIt()>Dodatkowy ser, 3,50 zł</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" data-price="2.20">Dodatkowy sos, 2,20 zł</label>
+                        <label><input type="checkbox" data-price="2.20" name="add" onclick=totalIt()>Dodatkowy sos, 2,20 zł</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" data-price="5.00">Dodatkowa szynka, 5 zł</label>
+                        <label><input type="checkbox" data-price="5.00" name="add" onclick=totalIt()>Dodatkowa szynka, 5 zł</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" data-price="4.10">Ananas, 4,10 zł</label>
+                        <label><input type="checkbox" data-price="4.10" name="add" onclick=totalIt()>Ananas, 4,10 zł</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox" data-price="3.50">Pieczarki, 3,50 zł</label>
+                        <label><input type="checkbox" data-price="3.50" name="add" onclick=totalIt()>Pieczarki, 3,50 zł</label>
                     </div>
                     <div class="checkbox">
-                        <label><input type="checkbox">Wyczyść</label>
+                        <label><input type="checkbox" id="delete" onclick="deleteALl(this)">Wyczyść</label>
                     </div>
                     <br>
                     <p>
-                        <button class='btn btn-primary'>Submit</button>
+                        <button class='btn btn-primary' type="button">Submit</button>
                     </p>
                 </form>
             </div>
         </div>
     </div>
 </div>
-
+<script src="js/pizza.js" type="text/javascript"></script>
 </body>
 </html>

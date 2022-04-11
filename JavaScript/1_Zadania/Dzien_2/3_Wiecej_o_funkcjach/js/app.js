@@ -5,28 +5,29 @@
  */
 
 
-//Twoj komentarz ...
+//Rozumiem
 function jeden() {
 
-    //Twoj komentarz ...
+    //Rozumiem
     var zmienna1 = 1;
 
-    //Twoj komentarz ...
+    //Rozumiem
     function dwa() {
 
-        //Twoj komentarz ...
+        //Rozumiem
         console.log(zmienna1);
 
-        //Twoj komentarz ...
+        //Rozumiem
         var zmienna2 = 3;
     }
 
-    //Twoj komentarz ...
+    //Rozumiem
     dwa();
 
-    //Twoj komentarz ...
+    //Rozumiem
     console.log(zmienna2)
 }
 
-//Twoj komentarz ...
+//Rozumiem
 jeden()
+

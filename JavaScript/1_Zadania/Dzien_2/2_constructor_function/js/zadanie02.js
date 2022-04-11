@@ -32,10 +32,8 @@ Calculator.prototype.clearOperations = function(){
     this.operations = [];
 }
 
-
 let simpleCalculator = new Calculator();
 simpleCalculator.add(20,10);
 simpleCalculator.add(13,1);
 simpleCalculator.divide(69,13);
-
 simpleCalculator.printOperations();

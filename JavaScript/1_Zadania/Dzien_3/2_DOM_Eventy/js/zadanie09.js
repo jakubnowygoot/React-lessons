@@ -19,7 +19,12 @@ b.addEventListener("click", function(event){
     // Tutaj this wskazuje na element Window, bo funkcja została
     //wywołana bez żadnego kontekstu.
     console.log("innerFuncOne: ", this);
+
+
   }
   innerFuncOne();
-
 });
+
+
+
+//wewnatrz funkcji dopisuje b.style.backgroundColor = "red" po kliknieciu zmienia sie kolor na czerwony

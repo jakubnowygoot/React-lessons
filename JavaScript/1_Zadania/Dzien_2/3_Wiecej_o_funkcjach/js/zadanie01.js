@@ -4,21 +4,21 @@
  * Napisz komentarze dla kazdej z linijek kodu
  */
 
-//Twoj komentarz ...
+//Rozumiem
 function sortArray() {
 
-    //Twoj komentarz ...
+    //Rozumiem
     var points = [41, 3, 6, 1, 114, 54, 64];
 
-    //Twoj komentarz ...
+    //Rozumiem
     points.sort(function(a, b){
-        //Twoj komentarz ...
+        //Rozumiem
         return a-b;
     });
 
-    //Twoj komentarz ...
+    //Rozumiem
     return points;
 }
 
-//Twoj komentarz ...
+//Rozumiem
 sortArray();

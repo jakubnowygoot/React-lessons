@@ -6,23 +6,18 @@ let interval = setInterval(function () {
     console.log('Działam co 13 minut!');
 }, 780000);  //funkcja dziala co 13 minut
 
-
-
-
-
 function countHello(n) {
-
-    if (n=1, n>=10, n++) {
-
-        let interval = setInterval(function () {
-            console.log('Działam co sekundę!');
-        }, 1000);
-
-
-    } else {
+    if( n<1 || n>10){
         console.log("podaj liczbe miedzy 1-10")
+    } else {
+        let counter = 0;
+        let interval = setInterval(function () {
+            counter++;
+            console.log('Hello', counter);
+            if (counter === n){
+                clearInterval(interval);
+            }
+        }, 1000);
     }
-
 }
-
-
+countHello(3);
