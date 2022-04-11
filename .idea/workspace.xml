@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="006d99fc-6885-4c46-9960-5a82efa4717b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie01.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie03.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie04.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie05.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie06.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie07.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/zadanie01,02.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/zadanie1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/zadanie2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/zadanie3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie01 .js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/1_this/js/zadanie1 .js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js/zadanie 1 .js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js/zadanie2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js/zadanie3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/zadanie1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/zadanie2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/zadanie3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/zadanie4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/zadanie5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js/zadanie1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js/zadanie2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js/zadanie3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js/zadanie4.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Funkcje_czasu/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Funkcje_czasu/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/1_Tablice/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/2_Tablice_wielowymiarowe/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/3_Obiekty/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/1_this/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/1_this/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/2_constructor_function/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/2_constructor_function/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/2_constructor_function/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie03.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/3_Wiecej_o_funkcjach/js/zadanie03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie03.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie04.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie05.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie06.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie06.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie07.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie07.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie08.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie08.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie09.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanie09.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie01.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/2_DOM_Eventy/zadanie01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanieWykladowca2.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/js/zadanieWykladowca2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/zadanieWykladowca2.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/3_DOM_Poruszanie_sie_po_drzewie/zadanieWykladowca2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie03.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie04.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie05.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanie05.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/1_DOM_Tworzenie_nowych_elementow/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie01.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie02.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie02.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie03.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie03.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie04.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanie04.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanieWykladowca.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/js/zadanieWykladowca.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/style/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie01.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie02.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie02.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie03.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie03.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie04.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanie04.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanieWykladowca.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_4/2_DOM_Inputy_i_formularze/zadanieWykladowca.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/1_Slider/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/2_Gallery/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/2_Gallery/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/3_GalleryWithFilter/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/3_GalleryWithFilter/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/4_Menu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/4_Menu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/4_Menu/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/4_Menu/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/5_Tooltips/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/5_Tooltips/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/6_ToDoList/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/6_ToDoList/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/6_ToDoList/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_5/Warsztaty/6_ToDoList/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_1/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_1/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_1/js/planets.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_1/js/planets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_2/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_2/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_2/js/searchDom.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_2/js/searchDom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_3/eventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_3/eventy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_4/js/pizza.js" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_4/js/pizza.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_4/pizza.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaScript/3_Zadania_domowe/Dzien_4/pizza.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreworkOla" beforeDir="false" afterPath="$PROJECT_DIR$/PreworkOla" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreworkOla/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreworkOla/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreworkOla/WRO_FER_S_19_Zaawansowany_HTML_CSS/3_Warsztaty/css/style01.css" beforeDir="false" afterPath="$PROJECT_DIR$/PreworkOla/WRO_FER_S_19_Zaawansowany_HTML_CSS/3_Warsztaty/css/style01.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PreworkOla/WRO_FER_S_19_Zaawansowany_HTML_CSS/3_Warsztaty/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/PreworkOla/WRO_FER_S_19_Zaawansowany_HTML_CSS/3_Warsztaty/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/PreworkOla" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2466zYFYWwJrAifykvPcbsotOtT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/4_DOM_Wyszukiwanie_elementow/js" />
+      <recent name="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_3/1_DOM_Wiecej_o_elemencie/js" />
+      <recent name="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/5_DOM_Element/js" />
+      <recent name="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_2/1_this/js" />
+      <recent name="$PROJECT_DIR$/JavaScript/1_Zadania/Dzien_1/3_Obiekty/js" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="006d99fc-6885-4c46-9960-5a82efa4717b" name="Default Changelist" comment="" />
+      <created>1642938953993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642938953993</updated>
+      <workItem from="1642938956083" duration="299000" />
+      <workItem from="1642954199558" duration="777000" />
+      <workItem from="1643051663789" duration="5722000" />
+      <workItem from="1643218926556" duration="205000" />
+      <workItem from="1643293827116" duration="991000" />
+      <workItem from="1643540768819" duration="7446000" />
+      <workItem from="1643988907536" duration="11123000" />
+      <workItem from="1644238802795" duration="9423000" />
+      <workItem from="1644412205186" duration="713000" />
+      <workItem from="1644491042642" duration="12000" />
+      <workItem from="1644491057708" duration="887000" />
+      <workItem from="1644499651129" duration="3124000" />
+      <workItem from="1644594140854" duration="11668000" />
+      <workItem from="1645288890781" duration="653000" />
+      <workItem from="1645319978480" duration="1863000" />
+      <workItem from="1645710529346" duration="36341000" />
+      <workItem from="1646828203713" duration="14974000" />
+      <workItem from="1646912963350" duration="27001000" />
+      <workItem from="1647543808301" duration="17000" />
+      <workItem from="1647602704648" duration="8250000" />
+      <workItem from="1647692726519" duration="33140000" />
+      <workItem from="1648802848132" duration="15599000" />
+      <workItem from="1648888674017" duration="15459000" />
+      <workItem from="1648987985906" duration="21025000" />
+      <workItem from="1649150067491" duration="12032000" />
+      <workItem from="1649234529382" duration="12018000" />
+      <workItem from="1649411012821" duration="8043000" />
+      <workItem from="1649445204060" duration="16256000" />
+      <workItem from="1649674350275" duration="2910000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
