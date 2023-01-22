@@ -28,9 +28,14 @@ function App() {
             date: new Date(2021, 2, 14),
         }
     ];
+
+    const addExpanseHandler = (expanse) => {
+        console.log("Im in App");
+        console.log(expanse);
+    }
     return (
         <div>
-            <NewExpanses/>
+            <NewExpanses onAddExpanse={addExpanseHandler}/>
             <Expanses items={expanses}/>
         </div>
     );
