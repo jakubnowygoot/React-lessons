@@ -45,8 +45,6 @@ const App = () => {
             </section>
 
         </div>
-
-
     );
 };
 
