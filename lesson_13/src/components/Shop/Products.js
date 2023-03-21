@@ -5,14 +5,14 @@ const DUMMY_PRODUCTS = [
     {
         id: 'p1',
         price: 6,
-        name: 'Harry Potter',
-        description: '3 students fighting',
+        title: 'My First Book',
+        description: 'The first book I ever wrote',
     },
     {
         id: 'p2',
-        price: 10,
-        name: 'Harry Potter 2',
-        description: 'Cursed Harry Potter',
+        price: 5,
+        title: 'My Second Book',
+        description: 'The second book I ever wrote',
     },
 ];
 
@@ -21,11 +21,11 @@ const Products = (props) => {
         <section className={classes.products}>
             <h2>Buy your favorite products</h2>
             <ul>
-                {DUMMY_PRODUCTS.map(product => (
+                {DUMMY_PRODUCTS.map((product) => (
                     <ProductItem
                         key={product.id}
                         id={product.id}
-                        name={product.name}
+                        title={product.title}
                         price={product.price}
                         description={product.description}
                     />

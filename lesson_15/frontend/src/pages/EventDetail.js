@@ -10,7 +10,7 @@ import {
 import EventItem from '../components/EventItem';
 import EventsList from '../components/EventsList';
 
-function EventDetailPage() {
+function EventDetail() {
     const { event, events } = useRouteLoaderData('event-detail');
 
     return (
@@ -29,7 +29,7 @@ function EventDetailPage() {
     );
 }
 
-export default EventDetailPage;
+export default EventDetail;
 
 async function loadEvent(id) {
     const response = await fetch('http://localhost:8080/events/' + id);
