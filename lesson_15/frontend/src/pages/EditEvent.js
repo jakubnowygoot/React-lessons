@@ -1,5 +1,11 @@
-const EditEventsPage = () => {
-    return <h1>Edit Events Page</h1>
-};
+import { useRouteLoaderData } from 'react-router-dom';
 
-export default EditEventsPage;
+import EventForm from '../components/EventForm';
+
+function EditEventPage() {
+    const data = useRouteLoaderData('event-detail');
+
+    return <EventForm method="patch" event={data.event} />;
+}
+
+export default EditEventPage;
